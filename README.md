@@ -1,2 +1,2 @@
-# Fine-tuned-CamelBERT-APCD-Arabic-Poem-Meter_detection
-Detect the meter of a specific Poem
+# Model
+we used the AraBERT to finetune the Arabic Poem Comprehensive Dataset (APCD) dataset on the task of Mask filling
